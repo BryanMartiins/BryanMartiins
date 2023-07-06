@@ -10,7 +10,7 @@
 
 # :trophy: Competições que participei :trophy:
 
-🏅 147º colocado do InterFatecs 2022 ( GOLUCHO ) <br>
+🏅 147º colocado do InterFatecs 2023 ( GOLUCHO ) <br>
 
 # :star: Tecnologias :star: ##
 <div>
